@@ -1,6 +1,6 @@
 /*
  * finding the nth fibonacci number in logarithmic time
- * using fast exponentiation on golden integers ak Z[φ]
+ * using fast exponentiation on golden integers aka Z[φ]
  */
 
 #include <stdio.h>
